@@ -737,8 +737,9 @@ h1 small, h2 small, h3 small, h1 .small, h2 .small, h3 .small {
     z-index: 3;
 }
 .main .logo.cursive{
-    font-family: 'Recursive',cursive;
-    font-size: 82px;
+    font-family: fantasy;
+    font-size: 90px;
+    font-weight: bold;
     
 }
 .main .content{
@@ -754,7 +755,7 @@ h1 small, h2 small, h3 small, h1 .small, h2 .small, h3 .small {
     text-shadow: 0 1px 4px rgba(0, 0, 0, 0.33);
     text-align: center;
     margin-top: 50px;
-    font-family: 'Recursive';  
+    font-family: fantasy;  
 }
 .main .subscribe .info-text{
     font-size: 18px;
@@ -968,4 +969,4 @@ h1 small, h2 small, h3 small, h1 .small, h2 .small, h3 .small {
     color: whitesmoke;
     -webkit-background-clip: text;
     background-clip: text;
-  }
+}
